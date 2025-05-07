@@ -2,7 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================  
 Full-Stack Developer | Electrical and Software Engineer | Red Belt Taekwondo 
 ----------------------------------------------------------------------------  
-I’m an Electrical & Software Engineering student at IIUM with a passion for building clean, scalable solutions—from full-stack web apps to smart IoT systems. With hands-on experience in React, Django, and embedded development, I enjoy working across the stack and turning complex ideas into real-world applications. I’ve contributed to automation tools, sensor-based monitoring systems, and even taught physics and math before diving deep into code. Always learning, always building, and always up for a challenge.  * 🌍  I'm based in Kuala Lumpur, Malaysia * ✉️  You can contact me at [youshaabdullah0@gmail.com](mailto:youshaabdullah0@gmail.com) * 🚀  I'm currently working on [A custom inventory management system for fiber optic projects at Masburan Sdn Bhd](http://masburan.com.my ) * 🧠  I'm learning Advanced backend systems (Python), React * 🤝  I'm open to collaborating on Web development, IoT projects, automation tools, and anything involving Python, React, Next.js, Flask or Django * ⚡  Red belt in Taekwondo—yes, you got it right!! I fight bugs in code and in the dojo. I believe great code is like good martial arts: ethical, clean, efficient, and well-disciplined.
+I’m an Electrical & Software Engineering student at IIUM with a passion for building clean, scalable solutions—from full-stack web apps to smart IoT systems. With hands-on experience in React, Django, and embedded development, I enjoy working across the stack and turning complex ideas into real-world applications. I’ve contributed to automation tools, sensor-based monitoring systems, and even taught physics and math before diving deep into code. Always learning, always building, and always up for a challenge.  
+* 🌍  I'm based in Kuala Lumpur, Malaysia
+* ✉️  You can contact me at [youshaabdullah0@gmail.com](mailto:youshaabdullah0@gmail.com)
+* 🚀  I'm currently working on [A custom inventory management system for fiber optic projects at Masburan Sdn Bhd](http://masburan.com.my )
+* 🧠  I'm learning Advanced backend systems (Python), React
+* 🤝  I'm open to collaborating on Web development, IoT projects, automation tools, and anything involving Python, React, Next.js, Flask or Django
+* ⚡  Red belt in Taekwondo—yes, you got it right!! I fight bugs in code and in the dojo. I believe great code is like good martial arts: ethical, clean, efficient, and well-disciplined.
 
 ### Skills  
 
